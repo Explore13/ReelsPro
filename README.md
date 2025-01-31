@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ReelsPro 🎥  
+
+ReelsPro is a practice project inspired by Chai Aur Code YouTube channel, built to learn advanced technologies like ImageKit and understand how video uploading works behind the scenes on platforms like Instagram.  
+
+## 🚀 Tech Stack  
+- **Next.js 15** – Server-side rendering & performance optimization  
+- **React 19** – Modern UI development  
+- **NextAuth** – Secure authentication  
+- **DaisyUI** – Tailwind-based UI components  
+- **MongoDB** – Scalable NoSQL database  
+- **ImageKit** – Optimized image & video delivery  
+
+## 🌟 Features  
+- User authentication & profile management  
+- Video uploading and sharing  
+- Optimized media handling with ImageKit  
+- Responsive UI with DaisyUI  
+
+🚀 Built for learning & experimentation!  
 
 ## Getting Started
 
